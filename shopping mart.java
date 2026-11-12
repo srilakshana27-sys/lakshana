@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class NexoMart {
+public class freshMart {
 
     static ArrayList<User> users = new ArrayList<>();
 
